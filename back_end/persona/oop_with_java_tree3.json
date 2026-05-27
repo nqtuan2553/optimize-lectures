@@ -1,0 +1,121 @@
+{
+  "ability_tree": {
+    "target_knowledge": "Lập trình hướng đối tượng với Java",
+    "total_score": 23,
+    "ability": [
+      {
+        "Name": "Cú pháp và ngữ nghĩa Java",
+        "Score": [
+          {
+            "score": 1,
+            "Description": "Cài đặt môi trường và chạy được chương trình cơ bản như Hello World."
+          },
+          {
+            "score": 2,
+            "Description": "Cú pháp cơ bản, biến, kiểu dữ liệu."
+          },
+          {
+            "score": 3,
+            "Description": "Cấu trúc điều khiển, hàm/method."
+          },
+          {
+            "score": 4,
+            "Description": "Luồng dữ liệu, file I/O, stream assembly."
+          },
+          {
+            "score": 5,
+            "Description": "Thành thạo cú pháp và ngữ nghĩa Java, có thể tối ưu mã nguồn."
+          }
+        ]
+      },
+      {
+        "Name": "Khái niệm và triển khai OOP",
+        "Score": [
+          {
+            "score": 1,
+            "Description": "Hiểu khái niệm cơ bản (trừu tượng, đóng gói, thừa kế, ...)."
+          },
+          {
+            "score": 2,
+            "Description": "Cài đặt được chương trình với lớp, đối tượng cơ bản."
+          },
+          {
+            "score": 3,
+            "Description": "Overriding, đa hình, abstract class, interface, tham chiếu this."
+          },
+          {
+            "score": 4,
+            "Description": "Ứng dụng nguyên lý OOP trong project nhỏ."
+          },
+          {
+            "score": 5,
+            "Description": "Thiết kế và xây dựng hệ thống hoàn chỉnh sử dụng OOP."
+          }
+        ]
+      },
+      {
+        "Name": "Gỡ lỗi & Kiểm thử",
+        "Score": [
+          {
+            "score": 1,
+            "Description": "Tìm và sửa lỗi cú pháp cơ bản."
+          },
+          {
+            "score": 2,
+            "Description": "Phát hiện và sửa được các lỗi logic, xử lý ngoại lệ."
+          },
+          {
+            "score": 3,
+            "Description": "Sử dụng được debugger, viết test case bằng JUnit."
+          },
+          {
+            "score": 4,
+            "Description": "Integration test, kiểm thử trường hợp biên."
+          }
+        ]
+      },
+      {
+        "Name": "Mô hình hóa và thiết kế",
+        "Score": [
+          {
+            "score": 1,
+            "Description": "Đọc/hiểu UML và use case đơn giản."
+          },
+          {
+            "score": 2,
+            "Description": "Vẽ được sơ đồ use case, class diagram, sequence diagram,..."
+          },
+          {
+            "score": 3,
+            "Description": "Áp dụng Design Patterns (Factory, Singleton, Observer); áp dụng nguyên tắc SOLID."
+          },
+          {
+            "score": 4,
+            "Description": "Thiết kế hệ thống phức tạp với UML + Design Patterns."
+          }
+        ]
+      },
+      {
+        "Name": "Tổng quát hóa và cấu trúc dữ liệu",
+        "Score": [
+          {
+            "score": 1,
+            "Description": "Generics và Collections cơ bản."
+          },
+          {
+            "score": 2,
+            "Description": "Wildcards và ràng buộc."
+          },
+          {
+            "score": 3,
+            "Description": "Các lớp wrapper như String, Array,...; các container tổng quát như List, Set,..."
+          },
+          {
+            "score": 4,
+            "Description": "Thành thạo lập trình tổng quát và cấu trúc dữ liệu, quan hệ giữa generics và thừa kế."
+          }
+        ]
+      }
+    ]
+  }
+}

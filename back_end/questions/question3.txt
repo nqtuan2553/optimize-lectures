@@ -1,0 +1,1 @@
+Một người bán hàng bán được 5 sản phẩm, mỗi sản phẩm có giá x đồng.  Nếu chi phí sản xuất mỗi sản phẩm là 10.000 đồng, người đó thu được lợi nhuận 25.000 đồng. Hãy lập phương trình và tìm giá trị x.

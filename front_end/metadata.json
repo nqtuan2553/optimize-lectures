@@ -1,0 +1,5 @@
+{
+  "name": "GLOOPJ Lecture Generator",
+  "description": "An AI-powered tool to generate personalized Java OOP lecture notes based on student interests and skill levels.",
+  "requestFramePermissions": []
+}
