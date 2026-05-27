@@ -1,0 +1,27 @@
+==================================================
+CHỦ ĐỀ BÀI HỌC: KẾ THỪA (INHERITANCE)
+==================================================
+PHẦN 1: GIẢI THÍCH KIẾN THỨC
+---------------------------------
+Khái niệm kế thừa:
+Kế thừa (Inheritance) trong lập trình hướng đối tượng là cơ chế cho phép một lớp (class) có thể sử dụng lại các thuộc tính và phương thức của lớp khác. Nhờ kế thừa, lập trình viên có thể tái sử dụng mã nguồn, tránh trùng lặp code và dễ dàng mở rộng chương trình.
+Lớp cha (superclass/parent class): Là lớp được kế thừa, chứa các thuộc tính và phương thức chung.
+Lớp con (subclass/child class): Là lớp kế thừa từ lớp cha, có thể sử dụng lại các thuộc tính và phương thức của lớp cha, đồng thời có thể bổ sung thêm thuộc tính và phương thức riêng.
+Lợi ích của kế thừa:
+Tái sử dụng mã nguồn.
+Giúp chương trình dễ mở rộng.
+Tăng tính logic, phân cấp rõ ràng.
+
+PHẦN 2: BÀI TẬP VẬN DỤNG
+---------------------------------
+--- Bài tập 1 ---
+Câu hỏi:
+Trong Java, để khai báo một lớp kế thừa từ lớp khác ta dùng từ khóa nào?
+a) implements
+b) extends
+c) inherit
+d) super
+Giải pháp:
+b) extends
+
+==================================================

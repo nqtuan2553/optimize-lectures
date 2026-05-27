@@ -1,0 +1,26 @@
+==================================================
+CHỦ ĐỀ BÀI HỌC: LỚP VÀ ĐỐI TƯỢNG
+==================================================
+
+PHẦN 1: GIẢI THÍCH KIẾN THỨC
+---------------------------------
+Lập trình hướng đối tượng được hiểu đơn giản là một phương pháp để giải quyết bài toán lập trình mà khi áp dụng code sẽ trở nên dễ phát triển và dễ bảo trì hơn. Đây là một phương pháp tiên tiến, phù hợp để phát triển hầu hết các ứng dụng hiện nay. Phương pháp này sẽ giải quyết bài toán bằng cách chia chương trình thành các đối tượng, với mỗi đối tượng sẽ có các thuộc tính (dữ liệu) và hành vi riêng (phương thức). 
+
+Lớp (class) là nơi định nghĩa thông tin về các đối tượng, bạn cũng có thể hiểu lớp là một kiểu dữ liệu mà biến của kiểu dữ liệu này được coi như một đối tượng. Ví dụ về lớp: Học sinh, giáo viên, xe ô tô, …
+Đối tượng (object) là một thể hiện của lớp, có thể hiểu đối tượng là một biến. 
+Thuộc tính (attribute): là các đặc điểm của đối tượng. Ví dụ về thuộc tính: tên, tuổi, chiều cao, cân nặng, năm sinh, ...
+Phương thức (method): là hành vi (hành động) của đối tượng. Ví dụ về phương thức: giới thiệu bản thân, học bài, chạy, ...
+
+PHẦN 2: BÀI TẬP VẬN DỤNG
+---------------------------------
+--- Bài tập 1 ---
+Câu hỏi:
+Trong Java, đối tượng (Object) được tạo từ lớp thông qua từ khóa nào?
+a) class
+b) this
+c) new
+d) object
+Giải pháp: 
+c) new
+
+==================================================

@@ -1,0 +1,30 @@
+==================================================
+CHỦ ĐỀ BÀI HỌC: ĐA HÌNH (POLYMORPHISM)
+==================================================
+
+PHẦN 1: GIẢI THÍCH KIẾN THỨC
+---------------------------------
+Khái niệm đa hình:
+Đa hình (Polymorphism) là một đặc trưng quan trọng của lập trình hướng đối tượng, cho phép một phương thức hoặc đối tượng có nhiều hình thái khác nhau. Nói cách khác, cùng một hành động nhưng có thể thực hiện theo nhiều cách khác nhau.
+Trong Java, đa hình thường được thể hiện qua hai hình thức:
+Đa hình tại thời điểm biên dịch (Compile-time Polymorphism):
+Còn gọi là method overloading (nạp chồng phương thức).
+Trong cùng một lớp có nhiều phương thức trùng tên nhưng khác tham số (số lượng hoặc kiểu dữ liệu).
+Đa hình tại thời điểm chạy (Runtime Polymorphism):
+Còn gọi là method overriding (ghi đè phương thức).
+Lớp con định nghĩa lại phương thức của lớp cha để thực hiện hành vi riêng.
+
+PHẦN 2: BÀI TẬP VẬN DỤNG
+---------------------------------
+--- Bài tập 1 ---
+Câu hỏi:
+Trong Java, đa hình được thể hiện thông qua những khái niệm nào sau đây?
+a) Nạp chồng phương thức và Ghi đè phương thức
+b) Kế thừa và Trừu tượng
+c) Interface và Lớp trừu tượng
+d) new và this
+
+Giải pháp:
+a) Nạp chồng phương thức và Ghi đè phương thức
+
+==================================================
